@@ -1,0 +1,64 @@
+Username: Aka
+Phone number: 09999
+Location: errtt
+Order Details: 
+Tea - Quantity: 3, Total: $30.000000
+Sandwich - Quantity: 3, Total: $15.300000
+
+Total Amount: $50.28
+------------------------
+Username: hp
+Phone number: 0777
+Location: ghj
+Order Details: 
+Pizza - Quantity: 8, Total: $64.000000
+Meat - Quantity: 3, Total: $30.000000
+
+Total Amount: $104.34
+------------------------
+Username: hp
+Phone number: 0777
+Location: fds
+Order Details: 
+Pizza - Quantity: 4, Total: $32.000000
+Sandwich - Quantity: 2, Total: $10.200000
+
+Total Amount: $46.84
+------------------------
+Username: Akinyi
+Phone number: 0875
+Location: itreg
+Order Details: 
+Pizza - Quantity: 6, Total: $48.000000
+Tea - Quantity: 8, Total: $48.000000
+Sandwich - Quantity: 4, Total: $20.400000
+
+Total Amount: $129.20
+------------------------
+Username: Kiplagat
+Phone number: 0705170276
+Location: ertyuio
+Order Details: 
+Pizza - Quantity: 5, Total: $40.000000
+Pilau - Quantity: 4, Total: $12.000000
+
+Total Amount: $57.72
+------------------------
+Username: JAY
+Phone number: 098765432
+Location: kanairo
+Order Details: 
+Rice - Quantity: 4, Total: $20.000000
+Sandwich - Quantity: 4, Total: $20.400000
+
+Total Amount: $44.84
+------------------------
+Username: Glen
+Phone number: 0753234567890
+Location: wertyui
+Order Details: 
+Tea - Quantity: 3, Total: $30.000000
+Sandwich - Quantity: 3, Total: $15.300000
+
+Total Amount: $50.28
+------------------------
